@@ -1,0 +1,80 @@
+Command: /home/users7/rk366163/526L/Lab11/./simv -l Lab11.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  May  3 18:12 2024
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+Time =                    0, wr_ptr =          0, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 1, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =                25000, wr_ptr =          1, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 1, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =                35000, wr_ptr =          1, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =                45000, wr_ptr =          2, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =                65000, wr_ptr =          3, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =                85000, wr_ptr =          4, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               105000, wr_ptr =          5, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               125000, wr_ptr =          6, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               145000, wr_ptr =          7, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               165000, wr_ptr =          8, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               185000, wr_ptr =          9, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               205000, wr_ptr =         10, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               225000, wr_ptr =         11, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               245000, wr_ptr =         12, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               265000, wr_ptr =         13, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               285000, wr_ptr =         14, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               305000, wr_ptr =         15, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               325000, wr_ptr =         16, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               345000, wr_ptr =         17, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               365000, wr_ptr =         18, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               385000, wr_ptr =         19, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               405000, wr_ptr =         20, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               425000, wr_ptr =         21, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               445000, wr_ptr =         22, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               465000, wr_ptr =         23, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               485000, wr_ptr =         24, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               505000, wr_ptr =         25, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               525000, wr_ptr =         26, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               545000, wr_ptr =         27, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               565000, wr_ptr =         28, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               585000, wr_ptr =         29, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               605000, wr_ptr =         30, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               625000, wr_ptr =         31, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               645000, wr_ptr =         32, rd_ptr =          0, Data Out = xx, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               655000, wr_ptr =         32, rd_ptr =          0, Data Out = xx, Full = 1, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               665000, wr_ptr =         32, rd_ptr =          1, Data Out = 00, Full = 1, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               675000, wr_ptr =         32, rd_ptr =          1, Data Out = 00, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               685000, wr_ptr =         32, rd_ptr =          2, Data Out = 01, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               705000, wr_ptr =         32, rd_ptr =          3, Data Out = 02, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               725000, wr_ptr =         32, rd_ptr =          4, Data Out = 03, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               745000, wr_ptr =         32, rd_ptr =          5, Data Out = 04, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               765000, wr_ptr =         32, rd_ptr =          6, Data Out = 05, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               785000, wr_ptr =         32, rd_ptr =          7, Data Out = 06, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               805000, wr_ptr =         32, rd_ptr =          8, Data Out = 07, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               825000, wr_ptr =         32, rd_ptr =          9, Data Out = 08, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               845000, wr_ptr =         32, rd_ptr =         10, Data Out = 09, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               865000, wr_ptr =         32, rd_ptr =         11, Data Out = 0a, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               885000, wr_ptr =         32, rd_ptr =         12, Data Out = 0b, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               905000, wr_ptr =         32, rd_ptr =         13, Data Out = 0c, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               925000, wr_ptr =         32, rd_ptr =         14, Data Out = 0d, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               945000, wr_ptr =         32, rd_ptr =         15, Data Out = 0e, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               965000, wr_ptr =         32, rd_ptr =         16, Data Out = 0f, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =               985000, wr_ptr =         32, rd_ptr =         17, Data Out = 10, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1005000, wr_ptr =         32, rd_ptr =         18, Data Out = 11, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1025000, wr_ptr =         32, rd_ptr =         19, Data Out = 12, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1045000, wr_ptr =         32, rd_ptr =         20, Data Out = 13, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1065000, wr_ptr =         32, rd_ptr =         21, Data Out = 14, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1085000, wr_ptr =         32, rd_ptr =         22, Data Out = 15, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1105000, wr_ptr =         32, rd_ptr =         23, Data Out = 16, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1125000, wr_ptr =         32, rd_ptr =         24, Data Out = 17, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1145000, wr_ptr =         32, rd_ptr =         25, Data Out = 18, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1165000, wr_ptr =         32, rd_ptr =         26, Data Out = 19, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1185000, wr_ptr =         32, rd_ptr =         27, Data Out = 1a, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1205000, wr_ptr =         32, rd_ptr =         28, Data Out = 1b, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1225000, wr_ptr =         32, rd_ptr =         29, Data Out = 1c, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1245000, wr_ptr =         32, rd_ptr =         30, Data Out = 1d, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1265000, wr_ptr =         32, rd_ptr =         31, Data Out = 1e, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1285000, wr_ptr =         32, rd_ptr =         32, Data Out = 1f, Full = 0, Empty = 0, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+Time =              1295000, wr_ptr =         32, rd_ptr =         32, Data Out = 1f, Full = 0, Empty = 1, Almost Full = 1, Almost Empty = 1, Overflow = 0, Underflow = 0
+$finish called from file "tb1.v", line 69.
+$finish at simulation time              1400000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1400000 ps
+CPU Time:      0.190 seconds;       Data structure size:   0.0Mb
+Fri May  3 18:12:17 2024
